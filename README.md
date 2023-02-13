@@ -24,9 +24,9 @@
 <details>
 <summary><h3>More About</summary></h3>
  
-  I love reading books not only abut coding. One of the many books I have read is "Humans"(by Tom Phillips).
+  :books: I love reading books not only abut coding. One of the many books I have read is "Humans"(by Tom Phillips).
   
-  I also really enjoy trips to the mountains. I hope to visit all the mountain ranges in Poland.
+  :sunrise_over_mountains: I also really enjoy trips to the mountains. I hope to visit all the mountain ranges in Poland.
   
 </details>
           
