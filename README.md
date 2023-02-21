@@ -26,7 +26,7 @@
  
   :books: I love reading books not only abut coding. One of the many books I have read is "Humans"(by Tom Phillips).
   
-  :sunrise_over_mountains: I also really enjoy trips to the mountains. I hope to visit all the mountain ranges in Poland.
+  :sunrise_over_mountains: I also really enjoy hiking trips. I hope to visit all the mountain ranges in Poland.
   
 </details>
           
